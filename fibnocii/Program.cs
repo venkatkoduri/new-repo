@@ -15,7 +15,7 @@ namespace fibnocii
         }
         static int fibnocii(int n)
         {
-            int x = 0;
+            int x = 1;
             int y = 1;
             int add;
             int i;
